@@ -1,0 +1,8 @@
+{
+  "name": "Remix Rank\u0027s Up",
+  "description": "High-performance website builds and search-driven ranking strategies designed to connect B2B companies with qualified commercial buyers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
